@@ -1,0 +1,14 @@
+button {
+    background-color: #4CAF50;
+    border: none;
+    width: 250px;
+    float: left;
+    height: 3em;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.4s cubic-bezier(0, 0, 1, 0);
+    text-transform: capitalize;
+    margin: 1px;
+  }
