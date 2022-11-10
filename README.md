@@ -1,8 +1,12 @@
 # TD
 A great beginner td game
 
-Update 1.01
+Update 0.01 ALPHA
 - Gui
 - Basic code
 
-created by Bubalo1234 and JasonTheGenius, this is truly one of the games ever.
+Update 0.02 BETA (Work In Process)
+- **Working Frame**
+- **Working Towers**
+
+created by Isabella and Jason, this is truly one of the games ever.
