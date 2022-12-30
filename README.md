@@ -13,7 +13,11 @@ A great beginner td game
 - More Enemies
 - More Sounds
 
-created by Isabella and Jason, this is truly one of the games ever.
+***Update 1.1.1 Release-a004or*
+**-One Boss Per Game**
+**-Start Menu**
+
+created by Isabella and Jason, wish you have a great time!
 
 a (selection)
 A (ALPHA)
