@@ -1,0 +1,14 @@
+body {
+    background: black;
+    overflow: hidden;
+}
+#canvas1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 900px;
+    height: 600px;
+    background: rgb(244, 255, 248);
+    font-family: 'Orbitron', sans-serif;
+}
